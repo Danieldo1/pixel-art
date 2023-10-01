@@ -24,3 +24,4 @@ Are you a pixel artist? We encourage you to submit your artwork and join our gro
  - JavaScript
 
 # Enjoy 
+[Visit Pixel Art](https://danieldo1.github.io/pixel-art/)
