@@ -5,6 +5,15 @@
     font-family: 'Roboto', sans-serif;
 
 }
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 35%;
+    font-family: Arial Black, Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: #000 1px 4px 1px;;
+
+}
 
 body {
     background-color: #ffe9c2;
@@ -21,6 +30,7 @@ body {
     left: 50%;
      padding: 40px 20px; 
 border-radius: 10px;
+box-shadow: #000 1px 4px 1px ;
 }
 label{
     display: block;
